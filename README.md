@@ -11,13 +11,21 @@ The impact of this project is significant. By enabling rapid and precise identif
 The dataset utilized for this project is sourced from the comprehensive collection titled [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 
 Data Example:
-<img src="/repository/resources/data_example.png" alt="Concrete Crack" title="Concrete Crack Dataset Example">
+<p align="center">
+  <img src="resources/data_example.png" alt="Concrete Crack" title="Concrete Crack Dataset Example">
+</p>
 
 ## Results
 
-<img src="/repository/results/output_evaluation.png" alt="Output Model Evaluation" title="Output Model Evaluation">
-<img src="/repository/results/output_graph.png" alt="Output Model Graph" title="Output Model Performance Graph">
-<img src="/repository/results/output_deployment.png" alt="Output Model Deployment" title="Model Deployment">
+<p align="center">
+  <img src="results/output_evaluation.png" alt="Output Model Evaluation" title="Output Model Evaluation">
+</p>
+<p align="center">
+  <img src="results/output_graph.png" alt="Output Model Graph" title="Output Model Performance Graph">
+</p>
+<p align="center">
+  <img src="results/output_deployment.png" alt="Output Model Deployment" title="Model Deployment">
+</p>
 
 
 ## Workflow
@@ -52,7 +60,9 @@ Data Example:
 ### 10. Pipeline
 > Build the entire model pipeline chaining together all the layers as in the pictures below:
 
-<img src="/repository/resources/model_architecture.png" alt="Pipeline Architecture" title="Pipeline Architecture">
+<p align="center">
+  <img src="resources/model_architecture.png" alt="Pipeline Architecture" title="Pipeline Architecture">
+</p>
 
 ### 11. Model Compilation
 > Normal drill, we will prepare all the callbacks and optimizer to compile the model.
@@ -60,12 +70,16 @@ Data Example:
 ### 12. Evaluation Before Training
 > We would like to see the performance of our pre-trained model before training:
 
-<img src="/repository/resources/evaluation_before_training.png" alt="Evaluation Before Training" title="Evaluation Before Training">
+<p align="center">
+  <img src="resources/evaluation_before_training.png" alt="Evaluation Before Training" title="Evaluation Before Training">
+</p>
 
 ### 13. Model Training
 > As usual, we will train the model by calling the `model.fit()`. The training report is as per below:
 
-<img src="/repository/resources/base_model_training_report.png" alt="Training Report" title="Training Report">
+<p align="center">
+  <img src="resources/base_model_training_report.png" alt="Training Report" title="Training Report">
+</p>
 
 
 ### 14. Fine Tuning
@@ -76,6 +90,10 @@ Data Example:
 
 ### 16. Fine Tune Model Training
 > As usual, we will be training the fine tune model
+
+<p align="center">
+  <img src="resources/fine_tune_training_model.png" alt="Fine Tune Training Report" title="Fine Tune Training Report">
+</p>
 
 ### 17. Fine Tune Model Evaluation
 > Print out the `test_loss` and `test_accuracy` for the fine-tune model and plot the performance graph of the base model and fine-tune model, as on the Results section on top
