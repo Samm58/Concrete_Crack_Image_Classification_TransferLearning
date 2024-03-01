@@ -18,10 +18,10 @@ Data Example:
 ## Results
 
 <p align="center">
-  <img src="results/output_evaluation.png" alt="Output Model Evaluation" title="Output Model Evaluation">
+  <img src="results/output_evaluation.png" alt="Zoom In Output Model Evaluation" title="Zoom In Output Model Evaluation">
 </p>
 <p align="center">
-  <img src="results/output_graph.png" alt="Output Model Graph" title="Output Model Performance Graph">
+  <img src="results/output_graph.png" alt="Zoom In Output Model Graph" title="Zoom In Output Model Performance Graph">
 </p>
 <p align="center">
   <img src="results/output_deployment.png" alt="Output Model Deployment" title="Model Deployment">
