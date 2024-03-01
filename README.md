@@ -17,12 +17,17 @@ Data Example:
 
 ## Results
 
+Model Accuracy:
 <p align="center">
   <img src="results/output_evaluation.png" alt="Zoom In Output Model Evaluation" title="Zoom In Output Model Evaluation">
 </p>
+
+Zoom In Performance Graph:
 <p align="center">
   <img src="results/output_graph.png" alt="Zoom In Output Model Graph" title="Zoom In Output Model Performance Graph">
 </p>
+
+Model Deployment:
 <p align="center">
   <img src="results/output_deployment.png" alt="Output Model Deployment" title="Model Deployment">
 </p>
