@@ -104,7 +104,7 @@ Model Deployment:
 > Print out the `test_loss` and `test_accuracy` for the fine-tune model and plot the performance graph of the base model and fine-tune model, as on the Results section on top
 
 
-### 19. Model Deployment
+### 18. Model Deployment
 > We will print and display the image with the predictions and labels as in Results section on top
 
 
